@@ -2,10 +2,10 @@
 body{
   margin: 0;
   padding: 0;
-  background: url("fondo fict.png");
+  background: url("fondo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 0% -25%;
+  background-position: 0% 20%;
 }
 #login-box{
   width:  600px;
