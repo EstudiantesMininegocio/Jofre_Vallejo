@@ -2,10 +2,10 @@
 body{
   margin: 0;
   padding: 0;
-  background: url("fondo fict.png");
+  background: url("fondo espol.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 0% -20%;
+  background-position: 0% -10%;
 }
 #login-box{
   width:  600px;
